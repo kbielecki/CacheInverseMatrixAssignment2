@@ -1,8 +1,6 @@
 ## class to store matrix and inverse matrix 
 ## and functions to set and get those objects
 
-## Write a short comment describing this function
-
 makeCacheMatrix <- function(x = matrix()) {
         ix<-matrix()
         set <- function(y) {
